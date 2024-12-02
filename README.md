@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 Prepare UXUY Wallet for the upcoming redpacket! You can also do tasks to get a small amount of instant $SATS.
 
 1. Create UXUY Wallet https://t.me/UXUYbot/app?startapp=A_1121014725_inviteEarn
